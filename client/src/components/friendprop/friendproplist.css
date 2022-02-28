@@ -1,0 +1,6 @@
+.all{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: #D8D8D8;
+}
